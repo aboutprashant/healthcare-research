@@ -6,6 +6,7 @@ Research planning for machine-learning projects in healthcare AI.
 
 | Document | Summary |
 |---|---|
+| [`docs/open-datasets-for-healthcare-ml-papers.md`](docs/open-datasets-for-healthcare-ml-papers.md) | Survey of open healthcare/biomedical datasets that are easier to publish ML papers on than the Allen Human Brain Atlas. It covers access tiers and a scorecard of ~35 datasets across EHR/ED, agent benchmarks, imaging, ECG/sleep, spatial omics and public health. It ends with the top 5 for this profile and a 90-day plan; **MC-MED** is the primary pick and **MedAgentBench** the quick parallel win. |
 | [`docs/ahba-ml-research-report.md`](docs/ahba-ml-research-report.md) | Advisor-style assessment of the **Allen Human Brain Atlas** as a foundation for ML research. It covers: a dataset assessment; 18 ML research directions; a map of high-impact ML themes; 2023–2026 literature gaps; a PhD-oriented ranking; and detailed plans (hypotheses, baselines, experiments, compute, risks, 6-month roadmaps) for the top three projects. |
 
 ### Recommended project (short version)
